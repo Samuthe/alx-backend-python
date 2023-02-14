@@ -6,4 +6,6 @@ from typing import Union, List
 
 
 def sum_mixed_list(mxd_lst: List[Union[int, str]]) -> float:
+    '''Computes the sum of a list of integers and floating-point numbers.
+    '''
     return sum(float(mxd_lst))
