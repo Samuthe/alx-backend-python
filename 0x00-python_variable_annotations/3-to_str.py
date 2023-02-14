@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
-
-"""type-annotated function to_str that takes a 
-float n as argument and returns the string 
-representation of the float."""
+""" Basic annotations - to string  """
 
 
 def to_str(n: float) -> str:
-    """return float str"""
-    return n
+    """ Returns the string representation of the float. """
+    return str(n)
