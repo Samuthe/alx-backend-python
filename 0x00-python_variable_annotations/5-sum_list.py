@@ -1,6 +1,6 @@
 from typing import Callable, Iterator, Union, Optional, List
 #!/usr/bin/env python3
-""" Complex types - list of floats """
+# Complex types - list of floats
 from typing import Callable, Iterator, Union, Optional, List
 
 
